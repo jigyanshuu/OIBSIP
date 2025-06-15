@@ -1,0 +1,8 @@
+PyQt5
+matplotlib
+
+✅ Explanation:
+
+PyQt5 — for GUI
+
+matplotlib — for charts and data visualization

@@ -1,0 +1,6 @@
+mysql-connector-python
+pyqt5
+emoji
+plyer
+opencv-python
+pillow
